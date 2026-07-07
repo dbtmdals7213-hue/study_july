@@ -1,0 +1,25 @@
+JQ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+문서 객체 탐색 선택자
+first, last 선택자										/ jq_selec2_1_test.html
+
+even, odd 선택자										/ jq_selec2_2_test.html
+
+eq(index), lt(index), gt(index) 선택자						/ jq_selec2_3_test.html
+
+first-of-type, last-of-type 선택자 							/ jq_selec2_4_test.html
+
+nth-child(숫자) 또는 nth-child(숫자n)						/ jq_selec2_5_test.html
+
+only-child, slice(index) 선택자							/ jq_selec2_6_test.html
+
+each(), $.each() 메소드									/ jq_selec2_7_test.html, jq_selec2_7_1_test.html
+
+$.map(), $.grep() 메소드								/ jq_selec2_8_test.html
+
+$.inArray(), $.isArray(), $.merge() 메소드						/ jq_selec2_9_test.html
+
+index() 메소드										/ jq_selec2_10_test.html, jq_selec2_10_1.html
+
+응용 종합 실습, 학생관리시스템, 할 일 목록					/ jq_application.html, application.html, application2.html
+
+할 일 목록 ver2										/ application2_ver2.html
