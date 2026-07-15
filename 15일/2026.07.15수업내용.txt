@@ -1,0 +1,14 @@
+JQ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+글자확대, 축소 버튼 만들기 총 정리 실습										/ event_last.html
+
+hide(), show()														/ jquery_effect_1.html
+
+toggle()															/ jquery_effect_2.html
+
+fadeln(), fadeOut(), fadeToggle()											/ jquery_effect_3.html
+
+fadeTo()															/ jquery_effect_4.html
+
+
+JAVA --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MovieSeatTest.java, ShoppingCartTest.java, GymMemberTest.java, ParkingLotTest.java, GameCharacterTest.java, Ex1.java
